@@ -1,0 +1,10 @@
+{
+    "connection_string": "",
+    "database": "augur",
+    "host": "localhost",
+    "password": "password",
+    "port": 5432,
+    "schema": "augur_data",
+    "user": "augur",
+    "user_type": "read_only"
+}
