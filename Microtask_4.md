@@ -15,7 +15,7 @@ Anything you want to show us. Even if you find bugs in our documentation and wan
 - https://github.com/chaoss/grimoirelab-sirmordred/pull/540
 
 I will continue contributing during the application review period as well!
-I'm helping on Slack with installation questions if I had the same errors as well.
+I'm helping on Slack with installation questions if I had the same errors too.
 
 # Definition of Conversion Rate Metric Model
 https://docs.google.com/document/d/1kNM5ch9uP7cVBa_60CHdWGKcFNRAf5nH3500YIEafxE/edit?usp=sharing
