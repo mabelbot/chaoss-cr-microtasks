@@ -8,7 +8,6 @@ Anything you want to show us. Even if you find bugs in our documentation and wan
 - https://github.com/chaoss/community-handbook/issues/30
 - https://github.com/chaoss/augur/issues/1783
 - https://github.com/chaoss/wg-evolution/issues/440/#issuecomment-1084141143
-- 
 
 **PRs**:
 - https://github.com/chaoss/wg-evolution/pull/443
