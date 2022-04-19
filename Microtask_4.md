@@ -120,9 +120,9 @@ Starting chaoss_kibiter_1       ... done
     2. To get an idea of how much data this returns for a single repository of Augur's size, this results in 7774 items (from 7774 commits) produced.
 
 # Python Connectors
-I tested out 2 connectors
+I tested out coding 2 connectors which shuttle data between ElasticSearch/Opensearch (using Python clients, which I'll use in the project) and Pandas Dataframes.
 1. Elasticsearch -> Python Dataframe https://github.com/mabelbot/chaoss-cr-microtasks/blob/main/ElasticSearch_Python_Client.ipynb
-2. Python Dataframe -> Opensearch https://github.com/mabelbot/chaoss-cr-microtasks/blob/main/viz_example.ipynb
+2. Python Dataframe -> OpenSearch https://github.com/mabelbot/chaoss-cr-microtasks/blob/main/viz_example.ipynb
 
 
 # Testing OpenSearch & OpenSearch Dashboards
