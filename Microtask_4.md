@@ -12,6 +12,7 @@ Anything you want to show us. Even if you find bugs in our documentation and wan
 - https://github.com/chaoss/wg-evolution/pull/443
 - https://github.com/chaoss/grimoirelab-elk/pull/1046
 
+I'm helping on Slack with installation questions if I had the same errors as well.
 
 # Definition of Conversion Rate Metric Model
 https://docs.google.com/document/d/1kNM5ch9uP7cVBa_60CHdWGKcFNRAf5nH3500YIEafxE/edit?usp=sharing
