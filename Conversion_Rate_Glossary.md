@@ -1,5 +1,7 @@
 # Conversion Rate and Related Terms Glossary
 
+Contribution Tiers: Equivalent to funnel "layers"
+
 1. Types of Conversion Rates
 - Hierarchical Conversion Rates: Multiple Conversion Rates in a related set, forming a pyramid shape, where each Conversion Rate represents % of conversion to a higher level. These can also be seen as multiple related standalone conversion rates. 
     - Example: Group A, D0, D1, D2.
