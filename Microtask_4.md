@@ -119,6 +119,12 @@ Starting chaoss_kibiter_1       ... done
     1. I did this with my own `python3 -m venv perceval` trying collecting from the Git backend from Augur (`$ perceval git 'https://github.com/chaoss/augur.git' --from-date '2016-01-01'`)
     2. To get an idea of how much data this returns for a single repository of Augur's size, this results in 7774 items (from 7774 commits) produced.
 
+# Python Connectors
+I tested out 2 connectors
+1. Elasticsearch -> Python Dataframe https://github.com/mabelbot/chaoss-cr-microtasks/blob/main/ElasticSearch_Python_Client.ipynb
+2. Python Dataframe -> Opensearch https://github.com/mabelbot/chaoss-cr-microtasks/blob/main/viz_example.ipynb
+
+
 # Testing OpenSearch & OpenSearch Dashboards
 Goal: Investigate OpenSearch Dashboards usage for Conversion Rate final visualization. Data will be retrieved from database with index patterns, similar to how Kibana & ElasticSearch interact.
 
