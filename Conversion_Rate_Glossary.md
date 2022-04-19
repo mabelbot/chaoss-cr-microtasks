@@ -1,5 +1,7 @@
 # Conversion Rate and Related Terms Glossary
 
+A set of terms and definitions that I think are useful for the Conversion Rate.
+
 **Contribution Tiers**: Equivalent to funnel "layers"
 
 **Types of Conversion Rates**
