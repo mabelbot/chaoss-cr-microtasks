@@ -20,4 +20,4 @@ I then created my own Conversion Rate visualization. For all repos inside the Au
 
 I also created a test Opensearch connector (Python) for loading data from pandas dataframe columns into Opensearch (reusing the data). This resulted in the visualization seen at the bottom of Microtask 4. 
 
-The visualization notebook is available here: https://github.com/mabelbot/chaoss-conversion-rate/blob/main/viz_example.ipynb
+The visualization notebook is available here: https://github.com/mabelbot/chaoss-cr-microtasks/blob/main/viz_example.ipynb
